@@ -279,7 +279,7 @@ body {
 .love-note p {
     font-family: var(--font-elegant);
     font-size: clamp(1.3rem, 4vw, 1.8rem);
-    color: var(--white);
+    color: var(--deep-pink);
     line-height: 1.8;
     margin: 0;
     font-weight: 500;
@@ -350,7 +350,7 @@ body {
 
 .memory-card p {
     font-family: var(--font-body);
-    color: var(--white);
+    color: var(--deep-pink);
     font-size: 1.1rem;
     line-height: 1.6;
 }
